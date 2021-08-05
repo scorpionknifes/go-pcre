@@ -1,6 +1,6 @@
 # go-pcre
 
-[![GoDoc](https://godoc.org/github.com/gijsbers/go-pcre?status.svg=)](https://pkg.go.dev/github.com/scorpionknifes/go-pcre)
+[![GoDoc](https://godoc.org/github.com/gijsbers/go-pcre?status.svg=)](https://pkg.go.dev/github.com/scorpionknifes/go-pcre) [![Test](https://github.com/scorpionknifes/go-pcre/actions/workflows/test.yml/badge.svg)](https://github.com/scorpionknifes/go-pcre/actions/workflows/test.yml)
 
 This is a Go language package providing support for Perl Compatible Regular Expressions (PCRE).
 
