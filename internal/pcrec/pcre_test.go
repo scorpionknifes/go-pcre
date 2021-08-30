@@ -1,4 +1,4 @@
-package pcre
+package pcrec
 
 import (
 	"reflect"

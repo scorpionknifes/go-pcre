@@ -1,4 +1,4 @@
-package pcre
+package pcrec
 
 // #cgo CFLAGS: -DPCRE_STATIC
 // #include <string.h>
